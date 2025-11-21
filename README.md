@@ -26,9 +26,10 @@ This repository contains the full framework for the Antigravity-Phaselock extens
 
 ## Documentation
 
-The following documents provide the complete blueprint for this extension:
+The following documents provide the complete blueprint for this unmatchable extension:
 
-*   **[Design Document](./docs/design_document.md):** Details the architectural design, tool definitions, and integration points.
+*   **[Phaselock Design Document](./docs/design_document.md):** Details the architectural design, tool definitions, and integration points for the Phaselock Protocol.
+*   **[CMO Design Document](./docs/cmo_design_document.md):** Details the revolutionary Cognitive Meta-Optimization (CMO) system, including Self-Distillation and Adaptive Quantization.
 *   **[Integration Analysis](./docs/integration_analysis.md):** Synthesizes findings from the Antigravity documentation and outlines the core integration strategy.
 
 ## Getting Started (For the Next AI Agent)
@@ -37,7 +38,7 @@ The following documents provide the complete blueprint for this extension:
 2.  **Review the Design:** Read the [Design Document](./docs/design_document.md) to understand the architecture.
 3.  **Setup the Phaselock Service:** Navigate to `tools/` and follow the instructions to deploy the Phaselock API service.
 4.  **Install the Extension:** Follow the instructions in `src/` to package and install the Antigravity extension.
-5.  **Begin Work:** The Antigravity Agent can now use the `phaselock_` toolset to manage the AI project lifecycle.
+5.  **Begin Work:** The Antigravity Agent can now use the `phaselock_` and `cmo_` toolsets to manage the AI project lifecycle and self-optimize its own performance.
 
 ---
-*Architected by Manus AI for the ultimate AI development experience.*
+*Architected by Manus AI for the ultimate, self-optimizing AI development experience.*
